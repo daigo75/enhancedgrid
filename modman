@@ -1,0 +1,16 @@
+# Code
+app/code/community/TBT/Enhancedgrid/         app/code/community/TBT/Enhancedgrid/
+app/etc/modules/*                   app/etc/modules
+
+# Design - Admin
+app/design/adminhtml/default/default/layout/*    app/design/adminhtml/default/default/layout
+app/design/adminhtml/default/default/template/*  app/design/adminhtml/default/default/template
+
+# Locale
+app/locale/en_US/* app/locale/en_US/
+
+# Skin
+skin/adminhtml/default/default/css/*     skin/adminhtml/default/default/css
+skin/adminhtml/default/default/images/*  skin/adminhtml/default/default/images
+js/*      js
+
